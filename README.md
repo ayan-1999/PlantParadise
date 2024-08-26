@@ -2,6 +2,16 @@
 
 **Plant Paradise** is a responsive e-commerce platform built with **React** and **Tailwind CSS** that allows users to explore, filter, and purchase a diverse range of plants. The project features a dynamic shopping cart, product filtering, and sorting, ensuring a seamless user experience.
 
+
+
+
+
+![Logo](assets/image1.png)
+
+
+
+
+
 ## 🌟 Features
 
 - **Responsive Design**: Optimized for all devices with a clean and modern UI.
@@ -40,7 +50,7 @@
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📜 Screenshots
-![Logo](assets/image1.png)
+
 
  
 ![Logo](assets/image3.png)
