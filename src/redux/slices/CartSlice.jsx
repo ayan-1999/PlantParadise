@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const CartSlice = createSlice({
+const CartSlice = createSlice({ //WE need 3 property to make a slice
   name: "cart",
   initialState: {
     cart: [], // initially cart is empty

@@ -102,7 +102,7 @@ const Products = () => {
           </div>
           {/*Sorting option */}
           <div className="flex justify-end mb-4 rounded-sm">
-            <div className="bg-[rgba(86,88,46,1)] p-2">
+            <div className="bg-[rgba(86,88,46,1)] p-4">
               <FaFilter className="text-white h-4 w-4 rounded-sm" />
             </div>
             <select
